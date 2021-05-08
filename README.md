@@ -1,4 +1,4 @@
-<a href="https://sumitvajarinkar.github.io/Portfolio/">Portfolio link</a>
+<a href="https://sumitportfolio.netlify.app/">Portfolio link</a>
 <h2>Personal Portfolio Link</h2>
 <h3>A Responsive website including information of about me, skills, projects, contact me.</h3>
 
