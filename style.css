@@ -298,7 +298,7 @@ footer{
 /* Contact */
  .contact{
     margin-top: 2em;
-    margin-bottom: -2em;
+/*     margin-bottom: -2em; */
     width: 100%;
     max-width: 900px;
     background-color: white;
