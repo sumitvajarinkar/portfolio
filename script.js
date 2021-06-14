@@ -66,19 +66,20 @@ var typewriter = new Typewriter(contact, {
 
 document.querySelector("#contactForm").addEventListener("submit", function (e) {
 		e.preventDefault();
+		sweetAlert("Thank you !\nYour message is sent.")
 		var name = document
 			.querySelector("#contactForm")
 			.getElementsByTagName("input")[0].value;
 		var email = document
 			.querySelector("#contactForm")
 			.getElementsByTagName("input")[1].value;
-		var message = document
+			var message = document
 			.querySelector("#contactForm")
 			.getElementsByTagName("textarea")[0].value;
 	
-		var templateParams={
-			fname:document.getElementById("fname").value,
-			mail:document.getElementById("mail").value,
+			var templateParams={
+				fname:document.getElementById("fname").value,
+				mail:document.getElementById("mail").value,
 			msg:document.getElementById("msg").value,
 		  };
 	
