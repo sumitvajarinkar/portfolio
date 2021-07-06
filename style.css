@@ -81,12 +81,20 @@ header{
     /* box-shadow: 0 8px 6px -6px black; */
 }
 
+#fixsubtitle{
+font-size: 1.6em;
+font-weight: 600;
+color: rgb(255, 0, 255);
+}
 #subtitle{
     font-weight:bold;
     color: orange;
     font-size: 1.3em;
     margin: .5em 0 0 0;
     letter-spacing: 0.2rem;
+    border:solid .2em rgb(255, 255, 255);
+    margin-right: .3em;
+    padding-left: .3em;
     /* text-transform: uppercase; */
 }
 
