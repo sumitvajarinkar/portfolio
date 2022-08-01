@@ -13,3 +13,5 @@
     <li><a href="https://www.flaticon.com/?k=1610076745299" target="_blank">Flaticon</a></li>
 </ol>
 
+<h3>Github deployment link : https://sumitvajarinkar.github.io/portfolio/</h3>
+
