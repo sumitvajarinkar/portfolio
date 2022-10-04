@@ -206,6 +206,11 @@ section{
     padding:5em 0 10em 0;
     margin:0 2em 0 2em;
 }
+.container-experience{
+    padding:0 0 10em 0;
+    margin:0 2em 0 2em;
+    
+}
 .container-skills{
     padding:0 0 10em 0;
     margin:0 2em 0 2em;
@@ -227,6 +232,10 @@ section{
     flex: 100%;
     border-radius: 1em;
   }
+  .container-experience img{
+      width: 5em;
+      height: 5em;
+    }
   .container-skills img{
       width: 5em;
       height: 5em;
@@ -252,7 +261,7 @@ section{
     padding:0;
     margin:0 2em 0 2em;
 }
-#about,#skills,#projects,#contact{
+#about,#experience,#skills,#projects,#contact{
     font-size: 1.5em;
     text-align: center;
     color: aqua;
@@ -274,6 +283,10 @@ p{
     color: white;
 }
 .container-about{
+    padding: 5em 0 10em 0;
+    margin: 0;
+}
+.container-experience{
     padding: 5em 0 10em 0;
     margin: 0;
 }

@@ -30,6 +30,17 @@ var typewriter = new Typewriter(about, {
 		
 	  });	
 
+//experience
+var experience = document.getElementById('experience');
+var typewriter = new Typewriter(experience, {
+
+	strings:['Experience'],
+	
+	autoStart: true,
+	  loop: true,
+		delay: 80,
+		
+	  });	
 //skills
 var skills = document.getElementById('skills');
 var typewriter = new Typewriter(skills, {
