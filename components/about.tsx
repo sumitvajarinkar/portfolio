@@ -20,7 +20,7 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
         I am a <span className="font-bold">Frontend Engineer </span>passionate about crafting  <span className="italic font-bold">seamless, high-performance</span> web experiences technologies, With expertise in <span className="italic font-bold">ReactJS, Redux, JavaScript, CSS, HTML</span> with specialization in <span className="italic font-bold">B.Tech Information Technology. </span>
-        Currently, I’m shaping the frontend of an <span className="font-bold">OTT platform</span> web app in current organization, where I drive <span className="italic font-bold">modularization, performance optimization, bug fixing so on.</span> I thrive on solving complex problems, staying ahead of the latest frontend trends, and optimizing workflows to build robust digital experiences. Exploring <span className="italic font-bold">frontend system design, backend technologies</span> and many more in Tech. 🚀
+        Currently, I’m shaping the frontend of an <span className="font-bold">OTT platform</span> web app in current organization. I thrive on solving complex problems, staying ahead of the latest frontend trends, and optimizing workflows to build robust digital experiences. Exploring <span className="italic font-bold">frontend system design, backend technologies</span> and many more in Tech. 🚀
       </p>
 
       <p>
