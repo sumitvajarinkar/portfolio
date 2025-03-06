@@ -6,13 +6,14 @@ import Footer from "@/components/footer";
 import ThemeSwitch from "@/components/theme-switch";
 import ThemeContextProvider from "@/context/theme-context";
 import { Toaster } from "react-hot-toast";
+import { Metadata } from "next";
 
 const inter = Inter({ subsets: ["latin"] });
 const poppins = Inter({ subsets: ["latin"] });
 
-export const metadata = {
+export const metadata: Metadata = {
   title: "Sumit Vajarinkar",
-  description: "Sumit is a frontend first full-stack developer, ReactJS developer.",
+  description: "Sumit is a frontend web engineer, ReactJS developer."
 };
 
 export default function RootLayout({
