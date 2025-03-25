@@ -1,3 +1,18 @@
+## Features
+
+- Next.js 13 <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" alt="Next.js Logo" height="15">: Leverage the latest features for efficiency and performance.
+- App Router <img src="https://simpleicons.org/icons/react.svg" alt="React Router Icon" height="15">: Seamless navigation with Next.js routing.
+- Server Actions ⚙️: Implement backend functionalities like sending emails.
+- Client & Server Components 💻: Optimize rendering for enhanced interactivity.
+- TypeScript <img src="https://simpleicons.org/icons/typescript.svg" alt="TypeScript Icon" height="15">: Enhance codebase reliability and maintainability.
+- Tailwind CSS <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="Tailwind CSS Icon" height="15">: Craft a clean and modern design effortlessly.
+- Context API 🔄: Efficient state management with React's Context API.
+- Framer Motion <img src="https://simpleicons.org/icons/framer.svg" alt="Framer Motion Icon" height="15">: Bring your UI to life with advanced animations.
+- Email Functionality <img src="https://simpleicons.org/icons/gmail.svg" alt="Email Icon" height="15">✉️: Send and resend emails with React.Email & Resend.
+- Custom Hooks 🎣: Streamline and reuse logic across components.
+- Light & Dark Mode 🌓: Enhance user experience with theme options.
+- Responsive Design 📱: Optimal viewing experience across devices.
+
 ## Getting Started
 
 1. Clone Repository: `git clone [repository_url]`
