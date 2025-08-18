@@ -37,12 +37,20 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Software Engineer",
+    location: "Coditas Solutions LLP, Pune (India)",
+    description:
+      "Building GRCTech client product.",
+    icon: React.createElement(CgWorkAlt),
+    date: "Jul-2025 - Present",
+  },
+  {
     title: "Frontend Engineer",
     location: "TATA Elxsi, Pune (India)",
     description:
       "Working on amazing in-house tech TEPlay - Web OTT platform (IP product) of organization.",
     icon: React.createElement(CgWorkAlt),
-    date: "Mar-2024 - Present",
+    date: "Mar-2024 - Jul 2025",
   },
   {
     title: "Bachelor of Technology (B.Tech)",
