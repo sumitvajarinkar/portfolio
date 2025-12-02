@@ -91,7 +91,12 @@ export default function Intro() {
           Contact me here{" "}
           <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition" />
         </Link>
-
+ <motion.div className="flex sm:flex-row"
+          initial={{ opacity: 0, y: 100 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{
+            delay: 0.1,
+          }}>
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
           href="https://drive.google.com/file/d/1pkJjDMGcB30kSJbVnibv7jMC4nm82xM4/view?usp=drivesdk"
@@ -137,6 +142,7 @@ export default function Intro() {
         >
           <SiGeeksforgeeks />
         </a>
+      </motion.div>
       </motion.div>
     </section>
   );
