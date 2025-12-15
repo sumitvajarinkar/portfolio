@@ -55,7 +55,7 @@ export const experiencesData = [
     title: "Associate Web Development Intern",
     location: "Bubble Byte Ventures Pvt. Ltd.",
     description:
-      "I interned in the startup incubated by NRIT initiative of Goverment Of Maharashtra in my 3rd year of engineering.",
+      "I interned in the startup incubated by NRIT initiative of Goverment Of Maharashtra in my 3rd year of engineering",
     icon: React.createElement(CgWorkAlt),
     date: "Sep-2022 - Nov 2022",
   },
