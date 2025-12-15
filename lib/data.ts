@@ -40,7 +40,7 @@ export const experiencesData = [
     title: "Software Engineer",
     location: "Coditas Solutions LLP, Pune (India)",
     description:
-      "Building GRCTech client product.",
+      "Building leading GRCTech - B2B platform",
     icon: React.createElement(CgWorkAlt),
     date: "Jul-2025 - Present",
   },
@@ -48,7 +48,7 @@ export const experiencesData = [
     title: "Frontend Engineer",
     location: "TATA Elxsi, Pune (India)",
     description:
-      "Working on amazing in-house tech TEPlay - Web OTT platform (IP product) of organization.",
+      "Worked on OTT (TEPlay) - B2C platform",
     icon: React.createElement(CgWorkAlt),
     date: "Mar-2024 - Jul 2025",
   },
