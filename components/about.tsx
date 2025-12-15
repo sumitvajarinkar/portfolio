@@ -19,13 +19,13 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        I am a <span className="font-bold">Frontend Engineer </span>passionate about crafting  <span className="italic font-bold">seamless, high-performance</span> web experiences technologies, With expertise in <span className="italic font-bold">ReactJS, Redux, JavaScript, CSS, HTML</span> with specialization in <span className="italic font-bold">B.Tech Information Technology. </span>
-        Currently, I’m building, optimizing the frontend of a <span className="font-bold">GRCTech product</span> web app in current organization. I thrive on solving complex problems, staying ahead of the latest frontend trends, and optimizing workflows to build robust digital experiences. Exploring <span className="italic font-bold">frontend system design, backend technologies</span> and many more in Tech. 🚀
+        I'm a <span className="font-bold">Frontend Engineer with 2+ years of experience </span>passionate about crafting  <span className="italic font-bold">seamless, high-performance</span> web experiences, with expertise in <span className="italic font-bold">Front-End Technologies. </span>
+        Currently working on <span className="font-bold">GRCTech B2B platform</span> focusing on developing and optimizing complex frontend workflows, improving performance, and delivering reliable user experiences. <span className="font-bold">Backed by a strong engineering mindset </span>with a passion for solving complex problems, writing maintainable code, and building reusable UI systems. Actively exploring <span className="italic font-bold">frontend system design, backend technologies and modern web architecture</span> to grow as a well-rounded engineer 🚀
       </p>
 
       <p>
         <span className="italic">PS : You can talk with me about travels, investments and Tech 💻 of course.
-          Feel free to reach out me, and build something amazing together !</span>
+          Feel free to reach out me, to build something amazing together !</span>
       </p>
     </motion.section>
   );
