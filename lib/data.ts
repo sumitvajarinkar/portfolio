@@ -1,6 +1,5 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
-import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import PlacementStoriesBlog from "@/public/PlacementStoriesBlog.png"
 import WatchITBanner from "@/public/WatchITBanner.png";
@@ -53,20 +52,20 @@ export const experiencesData = [
     date: "Mar-2024 - Jul 2025",
   },
   {
+    title: "Associate Web Development Intern",
+    location: "Bubble Byte Ventures Pvt. Ltd.",
+    description:
+      "I interned in the startup incubated by NRIT initiative of Goverment Of Maharashtra in my 3rd year of engineering.",
+    icon: React.createElement(CgWorkAlt),
+    date: "Sep-2022 - Nov 2022",
+  },
+  {
     title: "Bachelor of Technology (B.Tech)",
     location: "Shivaji University",
     description:
       "I graduated in Information Technology background from Rajarambapu Institute Of Technology (An Autonomous institute) - CGPA : 8.25",
     icon: React.createElement(LuGraduationCap),
     date: "Aug 2019 - July 2023",
-  },
-  {
-    title: "Associate Web Development Intern",
-    location: "Bubble Byte Ventures Pvt. Ltd.",
-    description:
-      "I interned in digital marketing startup incubated by NRIT initiative Goverment Of Maharashtra in my 3rd year of engineering.",
-    icon: React.createElement(FaReact),
-    date: "Sep-2022 - Nov 2022",
   },
 ] as const;
 
